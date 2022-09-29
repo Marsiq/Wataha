@@ -9,19 +9,19 @@ import Szczurek from "./components/Szczurek";
 function App() {
   return (
     <div className="App" style={{display: "grid", gridTemplateColumns:'repeat(6, 1fr)'}}>
-        <div style={{backgroundColor:"red"}}>
+        <div title="Simo" style={{backgroundColor:"red"}}>
             <Simo/>
         </div>
-        <div style={{backgroundColor:"orange"}}>
+        <div title="Królik" style={{backgroundColor:"orange"}}>
             <Krolik/>
         </div>
-        <div style={{backgroundColor:"yellow"}}>
+        <div title='Kubsky' style={{backgroundColor:"yellow"}}>
             <Kubsky/>
         </div>
-        <div style={{backgroundColor:"green"}}>
+        <div title='Seva' style={{backgroundColor:"green"}}>
             <Seva/>
         </div>
-        <div style={{backgroundColor:"purple"}}>
+        <div title='Szczurek' style={{backgroundColor:"purple"}}>
             <Szczurek/>
         </div>
     </div>
