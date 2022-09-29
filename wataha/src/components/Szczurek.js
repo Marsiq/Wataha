@@ -1,9 +1,9 @@
 import React from 'react'
 
-const szczurek = () => {
+const Szczurek = () => {
     return(
         <p>Szczurek</p>
     )
 }
 
-export default szczurek;
+export default Szczurek;

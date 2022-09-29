@@ -1,9 +1,9 @@
 import React from 'react'
 
-const simo = () => {
+const Simo = () => {
     return(
         <p>Simo</p>
     )
 }
 
-export default simo;
+export default Simo;

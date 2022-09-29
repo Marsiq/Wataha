@@ -1,9 +1,9 @@
 import React from 'react'
 
-const krolik = () => {
+const Krolik = () => {
     return(
         <p>Królik</p>
     )
 }
 
-export default krolik;
+export default Krolik;

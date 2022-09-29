@@ -1,9 +1,9 @@
 import React from 'react'
 
-const kubsky = () => {
+const Kubsky = () => {
     return(
-        <p>Kubsky</p>
+            <p>Kubsky</p>
     )
 }
 
-export default kubsky;
+export default Kubsky;

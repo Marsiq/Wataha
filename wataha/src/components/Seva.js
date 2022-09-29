@@ -1,9 +1,9 @@
 import React from 'react'
 
-const seva = () => {
+const Seva = () => {
     return(
         <p>Seva</p>
     )
 }
 
-export default seva;
+export default Seva;
