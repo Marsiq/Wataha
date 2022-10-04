@@ -2,7 +2,7 @@ import React from 'react'
 
 const Szczurek = () => {
     return(
-        <p>Szczurek</p>
+        <p>Dupa</p>
     )
 }
 
