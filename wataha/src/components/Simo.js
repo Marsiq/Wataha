@@ -5,6 +5,8 @@ const Simo = () => {
     const add = () => {
         setResult(prevState => prevState+1);
     }
+    // stwórz dwa przyciski wywołujące dwie funkcje - inkrementacja i dekrementacja.
+    // wynik wyświetl dynamicznie na stronie.
     return(
         <>
         </>
